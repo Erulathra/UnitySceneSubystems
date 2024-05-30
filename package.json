@@ -1,0 +1,17 @@
+{
+    "name": "com.erulathra.scenesubystems",
+    "version": "1.0.0",
+    "displayName": "Scene Subystems",
+    "description": "Subsystems with automatic livetime managment",
+    "unity": "2022.3",
+    "keywords": [
+        "scene",
+        "subsystem",
+        "erulathra"
+    ],
+    "author": {
+        "name": "Szymon Świędrych",
+        "url": "https://github.com/Erulathra/UnitySceneSubystems"
+    },
+    "contributors": []
+}

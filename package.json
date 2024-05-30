@@ -2,7 +2,7 @@
     "name": "com.erulathra.scenesubystems",
     "version": "1.0.0",
     "displayName": "Scene Subystems",
-    "description": "Subsystems with automatic livetime managment",
+    "description": "Powerful and convenient library implementing subsystems with automatic lifetime ",
     "unity": "2022.3",
     "keywords": [
         "scene",

@@ -1,3 +1,14 @@
 {
-	"name": "com.erulathra.scenesubsystems"
+    "name": "com.erulathra.scenesubsystems",
+    "rootNamespace": "erulathra",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
